@@ -1,4 +1,4 @@
 # Link To the Games
 
-https://bibek-m.github.io/Frond-End-Games/
+1. Tic Tac Toe : https://bibek-m.github.io/Frond-End-Games/
  
